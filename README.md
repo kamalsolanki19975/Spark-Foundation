@@ -9,8 +9,6 @@
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
 
-## Please click on the images on right side to view my solution.
-
  ###   1. Predict the percentage of marks of an student based on the number of study hours.
  ###   2. This is a simple linear regression task as it involves just 2 variables.
  ###   3. Data can be found at http://bit.ly/w
@@ -19,8 +17,13 @@
 
 # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
-## Please click on the images on right side to view my solution.
-
  ###   1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
  ###   2. Use R or Python or perform this task.
  ###   3. Data can be found at https://bit.ly/3cGyP8j
+ 
+ # Task -3: 'Exploratory Data Analysis(EDA)' on dataset 'Global Terrorism'.
+ 
+ ### 1. Perform EDA on Global Terrorism.
+ ### 2. As a Security/Defence analyst, try to find out the hot zone of terrorism.
+ ### 3. What all security issues and insights you can derive by EDA.
+ ### 4. Data can be found at https://bit.ly/2TK5Xn5
