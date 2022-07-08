@@ -34,3 +34,10 @@
 ###   2. As a sport Analyst, find out the most successful teams, players and factors contributing win or loss of a team.
 ###   3. Suggest teams or players a company should endorse for its products.
 ###   4. Dataset can be found at https://bit.ly/34SRn3b
+
+# Task -5 'Exploratory Data Analysis' on dataset of 'Sample Super Store'
+
+###  1. Perform EDA on Sample Super Dataset.
+###  2. As a business manager,try to find out the week areas where you can work to make more profit.
+###  3. What all business problems you can derive by exploring the data.
+###  4. Dataset is uploaded with file.
